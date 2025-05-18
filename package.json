@@ -7,8 +7,8 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node index.js"
     },
-    "keywords": ["baileysQr","MdLogin", "Star-md","whatsapp-bot","BotWhatsapp","whatsappMdLogin","adiwajshing/baileys","baileys-md-qr","multi-device-qr","md-qr","bot-qr","baileysQrScanner","wabot" ],
-    "author": "Xcelsama",
+    "keywords": ["baileysQr","MdLogin", "KHAOS-XMD","whatsapp-bot","BotWhatsapp","whatsappMdLogin","adiwajshing/baileys","baileys-md-qr","multi-device-qr","md-qr","bot-qr","baileysQrScanner","wabot" ],
+    "author": "𝖎 𝖆𝖒 𝖐𝖍𝖆𝖔𝖘",
     "license": "MIT",
     "dependencies": {
       "@hapi/boom": "^10.0.1",
